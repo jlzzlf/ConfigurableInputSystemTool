@@ -1,4 +1,6 @@
-> # 项目目的
+> # 工具介绍
+基于 Unity Input System 封装的一套轻量级输入管理工具，通过 ScriptableObject 配置驱动，实现输入资产与业务逻辑解耦
+> # 工具目的
 ## 1.不让业务代码直接去找Action
 ```csharp
 var move = actions.FindAction("Player/Move");
