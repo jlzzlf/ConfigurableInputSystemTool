@@ -1,0 +1,13 @@
+{
+  "name": "com.jlz.configurable-input-system-tool",
+  "version": "0.1.0",
+  "displayName": "Configurable Input System Tool",
+  "description": "A Unity editor tool for generating configurable input system setups.",
+  "unity": "2022.3",
+  "author": {
+    "name": "JLZ"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.14.2"
+  }
+}

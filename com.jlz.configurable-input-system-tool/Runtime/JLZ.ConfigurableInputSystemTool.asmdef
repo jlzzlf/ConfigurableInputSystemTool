@@ -1,0 +1,6 @@
+{
+  "name": "JLZ.ConfigurableInputSystemTool",
+  "references": [
+    "Unity.InputSystem"
+  ]
+}
